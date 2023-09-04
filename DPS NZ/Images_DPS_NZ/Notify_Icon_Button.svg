@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17.5014019px" height="19.5px" viewBox="0 0 17.5014019 19.5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Notify Icon Button</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Direct-Pool-Supplies---Product-Page---Sold-Out-v3" transform="translate(-1494.248598, -1103.250000)" stroke="#FFFFFF" stroke-width="1.5">
+            <g id="Notify-Icon-Button" transform="translate(1495.000000, 1104.000000)">
+                <ellipse id="Oval" cx="13.5696203" cy="4.0617527" rx="2.43037975" ry="2.40009023"></ellipse>
+                <path d="M5.67088608,16.8006316 C5.88223674,17.5116259 6.54281676,18 7.29316456,18 C8.04351235,18 8.70409237,17.5116259 8.91544304,16.8006316" id="Path"></path>
+                <line x1="7.29113924" y1="1.80006767" x2="7.29113924" y2="0" id="Path"></line>
+                <path d="M13.3857215,8.96913718 C13.5388354,13.5741103 14.5822785,14.4005414 14.5822785,14.4005414 L0,14.4005414 C0,14.4005414 1.21518987,12.8676837 1.21518987,7.80029324 C1.21703217,5.89400855 2.13517518,4.1017889 3.68921325,2.97098752 C5.24325132,1.84018615 7.24861685,1.50510431 9.09286076,2.06807775" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

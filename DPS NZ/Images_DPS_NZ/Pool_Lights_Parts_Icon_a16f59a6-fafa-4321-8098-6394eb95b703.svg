@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45.5px" height="47.5px" viewBox="0 0 45.5 47.5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pool Lights Parts Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Direct-Pool-Supplies---Homepage-v7" transform="translate(-848.250000, -3195.250000)" stroke="#000000" stroke-width="1.5">
+            <g id="Pool-Lights-Parts-Icon" transform="translate(849.000000, 3196.000000)">
+                <line x1="22" y1="43" x2="22" y2="46" id="Path"></line>
+                <path d="M28,33.57 L28,39 C28,41.852 25.6,43 22,43 C18.4,43 16,41.852 16,39 L16,33.57" id="Path"></path>
+                <polyline id="Path" points="22 33.394 22 25 18 21"></polyline>
+                <path d="M27,34 C31.904825,32.0555296 35.0915754,27.275404 35,22 C34.8729886,14.8735711 29.1264289,9.12701144 22,9 C14.8735711,9.12701144 9.12701144,14.8735711 9,22 C8.90842464,27.275404 12.095175,32.0555296 17,34 L27,34 Z" id="Path"></path>
+                <line x1="16" y1="38" x2="28" y2="38" id="Path"></line>
+                <line x1="22" y1="0" x2="22" y2="4" id="Path"></line>
+                <line x1="0" y1="20" x2="4.582" y2="20" id="Path"></line>
+                <line x1="5" y1="5" x2="9" y2="9" id="Path"></line>
+                <line x1="44" y1="20" x2="39.418" y2="20" id="Path"></line>
+                <line x1="39" y1="5" x2="35" y2="9" id="Path"></line>
+                <line x1="22" y1="25" x2="26" y2="21" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>

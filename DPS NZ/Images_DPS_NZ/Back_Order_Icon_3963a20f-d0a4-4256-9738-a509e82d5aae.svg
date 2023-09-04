@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17.1667995px" height="15.1666667px" viewBox="0 0 17.1667995 15.1666667" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Back Order Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Direct-Pool-Supplies---Product-Page---Back-Order-v3" transform="translate(-1668.749867, -612.750000)" stroke="#3DABB2" stroke-width="2.5">
+            <g id="Group-5-Copy" transform="translate(1456.000000, 604.000000)">
+                <g id="Group-2-Copy-11" transform="translate(104.000000, 0.000000)">
+                    <g id="Back-Order-Icon" transform="translate(110.000000, 10.000000)">
+                        <polyline id="Path" points="0 4.328 2 7.328 4.33333333 4.66133333"></polyline>
+                        <path d="M8.33333333,12.6666667 C11.8311367,12.6666667 14.6666667,9.83113675 14.6666667,6.33333333 C14.6666667,2.83552992 11.8311367,0 8.33333333,0 C4.83552992,0 2,2.83552992 2,6.33333333 L2,7.32933333" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

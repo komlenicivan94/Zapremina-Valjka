@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17.08px" height="17.08px" viewBox="0 0 17.08 17.08" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Compare Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Direct-Pool-Supplies---Product-Page-v3" transform="translate(-1613.460000, -1044.460000)" stroke="#000000" stroke-width="1.08">
+            <g id="Group-2-Copy" transform="translate(1392.000000, 1028.000000)">
+                <g id="Compare-Icon" transform="translate(222.000000, 17.000000)">
+                    <path d="M7.99997079,10.6104326 C7.99997079,11.0128958 7.67306197,11.3391365 7.26977462,11.3391365 L0.731422897,11.3391365 C0.328142856,11.3391365 0.00122672956,11.0128958 0.00122672956,10.6104326 L0.00122672956,0.728703968 C0.00122672956,0.326248054 0.328142856,0 0.731422897,0 L7.26977462,0 C7.67306197,0 7.99997079,0.326248054 7.99997079,0.728703968 L7.99997079,10.6104326 Z" id="Path"></path>
+                    <path d="M7.99997079,5.38957471 C7.99997079,4.98712608 8.32687962,4.66087074 8.73016696,4.66087074 L15.2685625,4.66087074 C15.6718498,4.66087074 15.9987587,4.98712608 15.9987587,5.38958199 L15.9987587,15.271296 C15.9987587,15.6737592 15.6718498,16 15.2685625,16 L8.73016696,16 C8.32687962,16 7.99997079,15.6737592 7.99997079,15.271296 L7.99997079,5.38957471 Z" id="Path"></path>
+                    <polyline id="Path" stroke-linecap="round" points="3.41344072 7.32907861 5.07652821 5.66954277 3.41344072 4.0098539"></polyline>
+                    <polyline id="Path" stroke-linecap="round" points="12.586552 8.6709141 10.9234572 10.3304645 12.586552 11.9901607"></polyline>
+                    <line x1="5.07635296" y1="5.66942618" x2="0" y2="5.66961564" id="Path" stroke-linecap="round"></line>
+                    <line x1="10.9236032" y1="10.3305374" x2="16" y2="10.3303916" id="Path" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

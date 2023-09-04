@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41.5097281px" height="40.5009675px" viewBox="0 0 41.5097281 40.5009675" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Sand Filter Parts Icon</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Direct-Pool-Supplies---Collection-Page-v4" transform="translate(-1458.245816, -2406.250000)" stroke="#000000" stroke-width="1.5">
+            <g id="Sand-Filter-Parts-Icon" transform="translate(1459.000000, 2407.000000)">
+                <path d="M24.5079154,21.7674419 L39.5657049,3.26509814 C40.1099623,2.72091209 40.1099623,1.81397163 39.747124,1.08839023 C39.3842857,0.362808837 38.6586091,0 37.9329325,0 L2.01195883,0 C1.28628223,0 0.560605627,0.362808837 0.197767326,1.08839023 C-0.165061905,1.81397163 0.0163681312,2.53951674 0.379204618,3.26509814 L15.4370123,21.7674419" id="Path"></path>
+                <polyline id="Path" points="24.5079154 21.7674419 24.5079154 34.4651163 15.4370123 39 15.4370123 21.7674419"></polyline>
+                <line x1="32.5859659" y1="11.7906977" x2="7.27315049" y2="11.7906977" id="Path"></line>
+            </g>
+        </g>
+    </g>
+</svg>
